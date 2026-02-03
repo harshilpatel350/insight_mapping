@@ -156,11 +156,3 @@ reports/
     ├── missing_matrix.png
     └── interactive_scatter.html
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
----
-
-**Insight Mapping v1.0** – Transform your data into actionable insights.
