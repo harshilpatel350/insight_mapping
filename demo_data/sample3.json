@@ -1,0 +1,7 @@
+[
+  {"id": 1, "product": "Widget", "category": "A", "units": 120, "price": 19.99, "region": "North"},
+  {"id": 2, "product": "Gadget", "category": "B", "units": 80, "price": 29.99, "region": "South"},
+  {"id": 3, "product": "Widget", "category": "A", "units": 140, "price": 18.5, "region": "East"},
+  {"id": 4, "product": "Device", "category": "C", "units": 60, "price": 49.0, "region": "West"},
+  {"id": 5, "product": "Gadget", "category": "B", "units": 95, "price": 27.5, "region": "North"}
+]

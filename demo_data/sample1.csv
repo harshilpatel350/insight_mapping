@@ -1,0 +1,9 @@
+id,name,department,age,salary,tenure_years
+1,Alice,Engineering,29,92000,2
+2,Bob,Sales,35,78000,5
+3,Cara,HR,41,66000,7
+4,Dan,Marketing,26,54000,1
+5,Eve,Engineering,33,88000,3
+6,Frank,Sales,,72000,4
+7,Grace,Engineering,38,99000,8
+7,Grace,Engineering,38,99000,8

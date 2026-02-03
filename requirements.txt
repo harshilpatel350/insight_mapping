@@ -1,0 +1,20 @@
+# Insight Mapping - Required Dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+openpyxl>=3.0.0
+
+# Optional - Enhanced visualizations
+plotly>=5.10.0
+missingno>=0.5.0
+
+# Optional - Extended profiling reports
+ydata-profiling>=4.0.0
+sweetviz>=2.1.0
+
+# Optional - Interactive exploration
+dtale>=2.0.0
+
+# Optional - Parquet support
+pyarrow>=10.0.0

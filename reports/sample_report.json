@@ -1,0 +1,5 @@
+{
+  "note": "Placeholder report. Run Insight Mapping to generate a full JSON report.",
+  "engine": "Insight Mapping v1.0",
+  "command": "python main.py demo_data/sample1.csv --output reports"
+}
